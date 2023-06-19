@@ -2,4 +2,4 @@
 
 Blog entries:
 
-* [Working with netconf manually](netconf.md)
+* [Working with netconf manually](blog/netconf.md)
